@@ -1,0 +1,13 @@
+div.in {
+	display: inline-block;
+	text-align: right;
+}
+img {
+	width: auto;
+	height: 50px;
+	padding-left: 30px;
+}
+
+form {
+	padding-right: 45px;
+}
